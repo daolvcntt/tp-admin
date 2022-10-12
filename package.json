@@ -27,7 +27,7 @@
         "vue-overflow-scroll": "^1.1.4"
     },
     "dependencies": {
-        "@amcharts/amcharts4": "^4.0.13",
+        "@amcharts/amcharts4": "^4.10.29",
         "@amcharts/amcharts4-geodata": "^4.0.26",
         "@johmun/vue-tags-input": "^2.0.0",
         "@tinymce/tinymce-vue": "^2.0.0",
